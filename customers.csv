@@ -1,0 +1,1001 @@
+customer_id,full_name,gender,age,region
+1,"Customer 1",F,60,KZN
+2,"Customer 2",M,24,"Western Cape"
+3,"Customer 3",F,24,"Eastern Cape"
+4,"Customer 4",M,29,Gauteng
+5,"Customer 5",F,56,KZN
+6,"Customer 6",M,27,"Western Cape"
+7,"Customer 7",F,48,"Eastern Cape"
+8,"Customer 8",M,43,Gauteng
+9,"Customer 9",F,54,KZN
+10,"Customer 10",M,25,"Western Cape"
+11,"Customer 11",F,42,"Eastern Cape"
+12,"Customer 12",M,19,Gauteng
+13,"Customer 13",F,53,KZN
+14,"Customer 14",M,39,"Western Cape"
+15,"Customer 15",F,21,"Eastern Cape"
+16,"Customer 16",M,67,Gauteng
+17,"Customer 17",F,56,KZN
+18,"Customer 18",M,59,"Western Cape"
+19,"Customer 19",F,63,"Eastern Cape"
+20,"Customer 20",M,19,Gauteng
+21,"Customer 21",F,37,KZN
+22,"Customer 22",M,60,"Western Cape"
+23,"Customer 23",F,21,"Eastern Cape"
+24,"Customer 24",M,59,Gauteng
+25,"Customer 25",F,63,KZN
+26,"Customer 26",M,20,"Western Cape"
+27,"Customer 27",F,45,"Eastern Cape"
+28,"Customer 28",M,47,Gauteng
+29,"Customer 29",F,32,KZN
+30,"Customer 30",M,53,"Western Cape"
+31,"Customer 31",F,53,"Eastern Cape"
+32,"Customer 32",M,36,Gauteng
+33,"Customer 33",F,55,KZN
+34,"Customer 34",M,48,"Western Cape"
+35,"Customer 35",F,59,"Eastern Cape"
+36,"Customer 36",M,35,Gauteng
+37,"Customer 37",F,28,KZN
+38,"Customer 38",M,19,"Western Cape"
+39,"Customer 39",F,43,"Eastern Cape"
+40,"Customer 40",M,42,Gauteng
+41,"Customer 41",F,62,KZN
+42,"Customer 42",M,19,"Western Cape"
+43,"Customer 43",F,40,"Eastern Cape"
+44,"Customer 44",M,24,Gauteng
+45,"Customer 45",F,32,KZN
+46,"Customer 46",M,22,"Western Cape"
+47,"Customer 47",F,46,"Eastern Cape"
+48,"Customer 48",M,46,Gauteng
+49,"Customer 49",F,25,KZN
+50,"Customer 50",M,21,"Western Cape"
+51,"Customer 51",F,62,"Eastern Cape"
+52,"Customer 52",M,30,Gauteng
+53,"Customer 53",F,46,KZN
+54,"Customer 54",M,23,"Western Cape"
+55,"Customer 55",F,58,"Eastern Cape"
+56,"Customer 56",M,53,Gauteng
+57,"Customer 57",F,23,KZN
+58,"Customer 58",M,40,"Western Cape"
+59,"Customer 59",F,61,"Eastern Cape"
+60,"Customer 60",M,20,Gauteng
+61,"Customer 61",F,47,KZN
+62,"Customer 62",M,59,"Western Cape"
+63,"Customer 63",F,37,"Eastern Cape"
+64,"Customer 64",M,39,Gauteng
+65,"Customer 65",F,19,KZN
+66,"Customer 66",M,58,"Western Cape"
+67,"Customer 67",F,18,"Eastern Cape"
+68,"Customer 68",M,49,Gauteng
+69,"Customer 69",F,22,KZN
+70,"Customer 70",M,44,"Western Cape"
+71,"Customer 71",F,37,"Eastern Cape"
+72,"Customer 72",M,37,Gauteng
+73,"Customer 73",F,57,KZN
+74,"Customer 74",M,54,"Western Cape"
+75,"Customer 75",F,31,"Eastern Cape"
+76,"Customer 76",M,29,Gauteng
+77,"Customer 77",F,32,KZN
+78,"Customer 78",M,54,"Western Cape"
+79,"Customer 79",F,58,"Eastern Cape"
+80,"Customer 80",M,62,Gauteng
+81,"Customer 81",F,67,KZN
+82,"Customer 82",M,31,"Western Cape"
+83,"Customer 83",F,35,"Eastern Cape"
+84,"Customer 84",M,67,Gauteng
+85,"Customer 85",F,63,KZN
+86,"Customer 86",M,44,"Western Cape"
+87,"Customer 87",F,66,"Eastern Cape"
+88,"Customer 88",M,29,Gauteng
+89,"Customer 89",F,31,KZN
+90,"Customer 90",M,48,"Western Cape"
+91,"Customer 91",F,32,"Eastern Cape"
+92,"Customer 92",M,46,Gauteng
+93,"Customer 93",F,67,KZN
+94,"Customer 94",M,29,"Western Cape"
+95,"Customer 95",F,26,"Eastern Cape"
+96,"Customer 96",M,25,Gauteng
+97,"Customer 97",F,29,KZN
+98,"Customer 98",M,53,"Western Cape"
+99,"Customer 99",F,62,"Eastern Cape"
+100,"Customer 100",M,34,Gauteng
+101,"Customer 101",F,64,KZN
+102,"Customer 102",M,54,"Western Cape"
+103,"Customer 103",F,57,"Eastern Cape"
+104,"Customer 104",M,58,Gauteng
+105,"Customer 105",F,49,KZN
+106,"Customer 106",M,53,"Western Cape"
+107,"Customer 107",F,50,"Eastern Cape"
+108,"Customer 108",M,23,Gauteng
+109,"Customer 109",F,50,KZN
+110,"Customer 110",M,62,"Western Cape"
+111,"Customer 111",F,41,"Eastern Cape"
+112,"Customer 112",M,52,Gauteng
+113,"Customer 113",F,20,KZN
+114,"Customer 114",M,26,"Western Cape"
+115,"Customer 115",F,54,"Eastern Cape"
+116,"Customer 116",M,22,Gauteng
+117,"Customer 117",F,33,KZN
+118,"Customer 118",M,33,"Western Cape"
+119,"Customer 119",F,45,"Eastern Cape"
+120,"Customer 120",M,60,Gauteng
+121,"Customer 121",F,47,KZN
+122,"Customer 122",M,37,"Western Cape"
+123,"Customer 123",F,26,"Eastern Cape"
+124,"Customer 124",M,53,Gauteng
+125,"Customer 125",F,18,KZN
+126,"Customer 126",M,65,"Western Cape"
+127,"Customer 127",F,52,"Eastern Cape"
+128,"Customer 128",M,49,Gauteng
+129,"Customer 129",F,22,KZN
+130,"Customer 130",M,44,"Western Cape"
+131,"Customer 131",F,37,"Eastern Cape"
+132,"Customer 132",M,36,Gauteng
+133,"Customer 133",F,51,KZN
+134,"Customer 134",M,32,"Western Cape"
+135,"Customer 135",F,36,"Eastern Cape"
+136,"Customer 136",M,20,Gauteng
+137,"Customer 137",F,22,KZN
+138,"Customer 138",M,31,"Western Cape"
+139,"Customer 139",F,24,"Eastern Cape"
+140,"Customer 140",M,60,Gauteng
+141,"Customer 141",F,59,KZN
+142,"Customer 142",M,50,"Western Cape"
+143,"Customer 143",F,54,"Eastern Cape"
+144,"Customer 144",M,52,Gauteng
+145,"Customer 145",F,32,KZN
+146,"Customer 146",M,36,"Western Cape"
+147,"Customer 147",F,67,"Eastern Cape"
+148,"Customer 148",M,58,Gauteng
+149,"Customer 149",F,21,KZN
+150,"Customer 150",M,62,"Western Cape"
+151,"Customer 151",F,32,"Eastern Cape"
+152,"Customer 152",M,58,Gauteng
+153,"Customer 153",F,24,KZN
+154,"Customer 154",M,30,"Western Cape"
+155,"Customer 155",F,59,"Eastern Cape"
+156,"Customer 156",M,36,Gauteng
+157,"Customer 157",F,39,KZN
+158,"Customer 158",M,67,"Western Cape"
+159,"Customer 159",F,53,"Eastern Cape"
+160,"Customer 160",M,44,Gauteng
+161,"Customer 161",F,45,KZN
+162,"Customer 162",M,27,"Western Cape"
+163,"Customer 163",F,32,"Eastern Cape"
+164,"Customer 164",M,61,Gauteng
+165,"Customer 165",F,41,KZN
+166,"Customer 166",M,54,"Western Cape"
+167,"Customer 167",F,30,"Eastern Cape"
+168,"Customer 168",M,22,Gauteng
+169,"Customer 169",F,54,KZN
+170,"Customer 170",M,33,"Western Cape"
+171,"Customer 171",F,37,"Eastern Cape"
+172,"Customer 172",M,20,Gauteng
+173,"Customer 173",F,22,KZN
+174,"Customer 174",M,31,"Western Cape"
+175,"Customer 175",F,22,"Eastern Cape"
+176,"Customer 176",M,49,Gauteng
+177,"Customer 177",F,62,KZN
+178,"Customer 178",M,45,"Western Cape"
+179,"Customer 179",F,23,"Eastern Cape"
+180,"Customer 180",M,64,Gauteng
+181,"Customer 181",F,31,KZN
+182,"Customer 182",M,45,"Western Cape"
+183,"Customer 183",F,64,"Eastern Cape"
+184,"Customer 184",M,67,Gauteng
+185,"Customer 185",F,25,KZN
+186,"Customer 186",M,57,"Western Cape"
+187,"Customer 187",F,44,"Eastern Cape"
+188,"Customer 188",M,32,Gauteng
+189,"Customer 189",F,60,KZN
+190,"Customer 190",M,37,"Western Cape"
+191,"Customer 191",F,35,"Eastern Cape"
+192,"Customer 192",M,49,Gauteng
+193,"Customer 193",F,20,KZN
+194,"Customer 194",M,37,"Western Cape"
+195,"Customer 195",F,58,"Eastern Cape"
+196,"Customer 196",M,63,Gauteng
+197,"Customer 197",F,21,KZN
+198,"Customer 198",M,51,"Western Cape"
+199,"Customer 199",F,24,"Eastern Cape"
+200,"Customer 200",M,49,Gauteng
+201,"Customer 201",F,54,KZN
+202,"Customer 202",M,58,"Western Cape"
+203,"Customer 203",F,59,"Eastern Cape"
+204,"Customer 204",M,55,Gauteng
+205,"Customer 205",F,32,KZN
+206,"Customer 206",M,25,"Western Cape"
+207,"Customer 207",F,62,"Eastern Cape"
+208,"Customer 208",M,19,Gauteng
+209,"Customer 209",F,40,KZN
+210,"Customer 210",M,26,"Western Cape"
+211,"Customer 211",F,44,"Eastern Cape"
+212,"Customer 212",M,22,Gauteng
+213,"Customer 213",F,62,KZN
+214,"Customer 214",M,28,"Western Cape"
+215,"Customer 215",F,35,"Eastern Cape"
+216,"Customer 216",M,22,Gauteng
+217,"Customer 217",F,37,KZN
+218,"Customer 218",M,55,"Western Cape"
+219,"Customer 219",F,43,"Eastern Cape"
+220,"Customer 220",M,35,Gauteng
+221,"Customer 221",F,29,KZN
+222,"Customer 222",M,22,"Western Cape"
+223,"Customer 223",F,54,"Eastern Cape"
+224,"Customer 224",M,37,Gauteng
+225,"Customer 225",F,54,KZN
+226,"Customer 226",M,42,"Western Cape"
+227,"Customer 227",F,33,"Eastern Cape"
+228,"Customer 228",M,20,Gauteng
+229,"Customer 229",F,32,KZN
+230,"Customer 230",M,35,"Western Cape"
+231,"Customer 231",F,59,"Eastern Cape"
+232,"Customer 232",M,23,Gauteng
+233,"Customer 233",F,22,KZN
+234,"Customer 234",M,21,"Western Cape"
+235,"Customer 235",F,21,"Eastern Cape"
+236,"Customer 236",M,26,Gauteng
+237,"Customer 237",F,47,KZN
+238,"Customer 238",M,42,"Western Cape"
+239,"Customer 239",F,51,"Eastern Cape"
+240,"Customer 240",M,60,Gauteng
+241,"Customer 241",F,33,KZN
+242,"Customer 242",M,64,"Western Cape"
+243,"Customer 243",F,55,"Eastern Cape"
+244,"Customer 244",M,66,Gauteng
+245,"Customer 245",F,47,KZN
+246,"Customer 246",M,18,"Western Cape"
+247,"Customer 247",F,32,"Eastern Cape"
+248,"Customer 248",M,40,Gauteng
+249,"Customer 249",F,34,KZN
+250,"Customer 250",M,35,"Western Cape"
+251,"Customer 251",F,56,"Eastern Cape"
+252,"Customer 252",M,57,Gauteng
+253,"Customer 253",F,49,KZN
+254,"Customer 254",M,59,"Western Cape"
+255,"Customer 255",F,27,"Eastern Cape"
+256,"Customer 256",M,43,Gauteng
+257,"Customer 257",F,67,KZN
+258,"Customer 258",M,37,"Western Cape"
+259,"Customer 259",F,65,"Eastern Cape"
+260,"Customer 260",M,48,Gauteng
+261,"Customer 261",F,26,KZN
+262,"Customer 262",M,19,"Western Cape"
+263,"Customer 263",F,48,"Eastern Cape"
+264,"Customer 264",M,66,Gauteng
+265,"Customer 265",F,19,KZN
+266,"Customer 266",M,28,"Western Cape"
+267,"Customer 267",F,65,"Eastern Cape"
+268,"Customer 268",M,26,Gauteng
+269,"Customer 269",F,67,KZN
+270,"Customer 270",M,40,"Western Cape"
+271,"Customer 271",F,31,"Eastern Cape"
+272,"Customer 272",M,65,Gauteng
+273,"Customer 273",F,18,KZN
+274,"Customer 274",M,24,"Western Cape"
+275,"Customer 275",F,52,"Eastern Cape"
+276,"Customer 276",M,18,Gauteng
+277,"Customer 277",F,18,KZN
+278,"Customer 278",M,20,"Western Cape"
+279,"Customer 279",F,26,"Eastern Cape"
+280,"Customer 280",M,54,Gauteng
+281,"Customer 281",F,25,KZN
+282,"Customer 282",M,46,"Western Cape"
+283,"Customer 283",F,38,"Eastern Cape"
+284,"Customer 284",M,32,Gauteng
+285,"Customer 285",F,30,KZN
+286,"Customer 286",M,37,"Western Cape"
+287,"Customer 287",F,28,"Eastern Cape"
+288,"Customer 288",M,63,Gauteng
+289,"Customer 289",F,60,KZN
+290,"Customer 290",M,45,"Western Cape"
+291,"Customer 291",F,29,"Eastern Cape"
+292,"Customer 292",M,42,Gauteng
+293,"Customer 293",F,55,KZN
+294,"Customer 294",M,33,"Western Cape"
+295,"Customer 295",F,31,"Eastern Cape"
+296,"Customer 296",M,39,Gauteng
+297,"Customer 297",F,35,KZN
+298,"Customer 298",M,42,"Western Cape"
+299,"Customer 299",F,36,"Eastern Cape"
+300,"Customer 300",M,37,Gauteng
+301,"Customer 301",F,58,KZN
+302,"Customer 302",M,64,"Western Cape"
+303,"Customer 303",F,29,"Eastern Cape"
+304,"Customer 304",M,36,Gauteng
+305,"Customer 305",F,26,KZN
+306,"Customer 306",M,52,"Western Cape"
+307,"Customer 307",F,67,"Eastern Cape"
+308,"Customer 308",M,61,Gauteng
+309,"Customer 309",F,35,KZN
+310,"Customer 310",M,25,"Western Cape"
+311,"Customer 311",F,55,"Eastern Cape"
+312,"Customer 312",M,29,Gauteng
+313,"Customer 313",F,65,KZN
+314,"Customer 314",M,20,"Western Cape"
+315,"Customer 315",F,36,"Eastern Cape"
+316,"Customer 316",M,53,Gauteng
+317,"Customer 317",F,39,KZN
+318,"Customer 318",M,18,"Western Cape"
+319,"Customer 319",F,58,"Eastern Cape"
+320,"Customer 320",M,67,Gauteng
+321,"Customer 321",F,45,KZN
+322,"Customer 322",M,56,"Western Cape"
+323,"Customer 323",F,29,"Eastern Cape"
+324,"Customer 324",M,59,Gauteng
+325,"Customer 325",F,41,KZN
+326,"Customer 326",M,58,"Western Cape"
+327,"Customer 327",F,51,"Eastern Cape"
+328,"Customer 328",M,63,Gauteng
+329,"Customer 329",F,44,KZN
+330,"Customer 330",M,65,"Western Cape"
+331,"Customer 331",F,25,"Eastern Cape"
+332,"Customer 332",M,61,Gauteng
+333,"Customer 333",F,64,KZN
+334,"Customer 334",M,67,"Western Cape"
+335,"Customer 335",F,29,"Eastern Cape"
+336,"Customer 336",M,25,Gauteng
+337,"Customer 337",F,20,KZN
+338,"Customer 338",M,57,"Western Cape"
+339,"Customer 339",F,60,"Eastern Cape"
+340,"Customer 340",M,59,Gauteng
+341,"Customer 341",F,47,KZN
+342,"Customer 342",M,39,"Western Cape"
+343,"Customer 343",F,40,"Eastern Cape"
+344,"Customer 344",M,66,Gauteng
+345,"Customer 345",F,40,KZN
+346,"Customer 346",M,35,"Western Cape"
+347,"Customer 347",F,39,"Eastern Cape"
+348,"Customer 348",M,24,Gauteng
+349,"Customer 349",F,33,KZN
+350,"Customer 350",M,24,"Western Cape"
+351,"Customer 351",F,56,"Eastern Cape"
+352,"Customer 352",M,40,Gauteng
+353,"Customer 353",F,64,KZN
+354,"Customer 354",M,33,"Western Cape"
+355,"Customer 355",F,55,"Eastern Cape"
+356,"Customer 356",M,58,Gauteng
+357,"Customer 357",F,57,KZN
+358,"Customer 358",M,45,"Western Cape"
+359,"Customer 359",F,34,"Eastern Cape"
+360,"Customer 360",M,19,Gauteng
+361,"Customer 361",F,26,KZN
+362,"Customer 362",M,53,"Western Cape"
+363,"Customer 363",F,23,"Eastern Cape"
+364,"Customer 364",M,35,Gauteng
+365,"Customer 365",F,41,KZN
+366,"Customer 366",M,32,"Western Cape"
+367,"Customer 367",F,67,"Eastern Cape"
+368,"Customer 368",M,24,Gauteng
+369,"Customer 369",F,51,KZN
+370,"Customer 370",M,18,"Western Cape"
+371,"Customer 371",F,66,"Eastern Cape"
+372,"Customer 372",M,59,Gauteng
+373,"Customer 373",F,30,KZN
+374,"Customer 374",M,58,"Western Cape"
+375,"Customer 375",F,29,"Eastern Cape"
+376,"Customer 376",M,55,Gauteng
+377,"Customer 377",F,20,KZN
+378,"Customer 378",M,20,"Western Cape"
+379,"Customer 379",F,20,"Eastern Cape"
+380,"Customer 380",M,23,Gauteng
+381,"Customer 381",F,38,KZN
+382,"Customer 382",M,54,"Western Cape"
+383,"Customer 383",F,38,"Eastern Cape"
+384,"Customer 384",M,60,Gauteng
+385,"Customer 385",F,67,KZN
+386,"Customer 386",M,40,"Western Cape"
+387,"Customer 387",F,33,"Eastern Cape"
+388,"Customer 388",M,24,Gauteng
+389,"Customer 389",F,54,KZN
+390,"Customer 390",M,30,"Western Cape"
+391,"Customer 391",F,22,"Eastern Cape"
+392,"Customer 392",M,50,Gauteng
+393,"Customer 393",F,18,KZN
+394,"Customer 394",M,24,"Western Cape"
+395,"Customer 395",F,46,"Eastern Cape"
+396,"Customer 396",M,43,Gauteng
+397,"Customer 397",F,59,KZN
+398,"Customer 398",M,49,"Western Cape"
+399,"Customer 399",F,52,"Eastern Cape"
+400,"Customer 400",M,43,Gauteng
+401,"Customer 401",F,43,KZN
+402,"Customer 402",M,67,"Western Cape"
+403,"Customer 403",F,39,"Eastern Cape"
+404,"Customer 404",M,28,Gauteng
+405,"Customer 405",F,55,KZN
+406,"Customer 406",M,24,"Western Cape"
+407,"Customer 407",F,39,"Eastern Cape"
+408,"Customer 408",M,53,Gauteng
+409,"Customer 409",F,33,KZN
+410,"Customer 410",M,36,"Western Cape"
+411,"Customer 411",F,63,"Eastern Cape"
+412,"Customer 412",M,42,Gauteng
+413,"Customer 413",F,53,KZN
+414,"Customer 414",M,21,"Western Cape"
+415,"Customer 415",F,27,"Eastern Cape"
+416,"Customer 416",M,55,Gauteng
+417,"Customer 417",F,28,KZN
+418,"Customer 418",M,57,"Western Cape"
+419,"Customer 419",F,32,"Eastern Cape"
+420,"Customer 420",M,20,Gauteng
+421,"Customer 421",F,40,KZN
+422,"Customer 422",M,19,"Western Cape"
+423,"Customer 423",F,60,"Eastern Cape"
+424,"Customer 424",M,24,Gauteng
+425,"Customer 425",F,22,KZN
+426,"Customer 426",M,22,"Western Cape"
+427,"Customer 427",F,28,"Eastern Cape"
+428,"Customer 428",M,55,Gauteng
+429,"Customer 429",F,23,KZN
+430,"Customer 430",M,34,"Western Cape"
+431,"Customer 431",F,35,"Eastern Cape"
+432,"Customer 432",M,53,Gauteng
+433,"Customer 433",F,42,KZN
+434,"Customer 434",M,35,"Western Cape"
+435,"Customer 435",F,31,"Eastern Cape"
+436,"Customer 436",M,32,Gauteng
+437,"Customer 437",F,49,KZN
+438,"Customer 438",M,32,"Western Cape"
+439,"Customer 439",F,45,"Eastern Cape"
+440,"Customer 440",M,62,Gauteng
+441,"Customer 441",F,56,KZN
+442,"Customer 442",M,27,"Western Cape"
+443,"Customer 443",F,51,"Eastern Cape"
+444,"Customer 444",M,57,Gauteng
+445,"Customer 445",F,63,KZN
+446,"Customer 446",M,26,"Western Cape"
+447,"Customer 447",F,25,"Eastern Cape"
+448,"Customer 448",M,30,Gauteng
+449,"Customer 449",F,57,KZN
+450,"Customer 450",M,29,"Western Cape"
+451,"Customer 451",F,55,"Eastern Cape"
+452,"Customer 452",M,20,Gauteng
+453,"Customer 453",F,67,KZN
+454,"Customer 454",M,58,"Western Cape"
+455,"Customer 455",F,23,"Eastern Cape"
+456,"Customer 456",M,24,Gauteng
+457,"Customer 457",F,32,KZN
+458,"Customer 458",M,23,"Western Cape"
+459,"Customer 459",F,49,"Eastern Cape"
+460,"Customer 460",M,59,Gauteng
+461,"Customer 461",F,31,KZN
+462,"Customer 462",M,59,"Western Cape"
+463,"Customer 463",F,34,"Eastern Cape"
+464,"Customer 464",M,26,Gauteng
+465,"Customer 465",F,60,KZN
+466,"Customer 466",M,55,"Western Cape"
+467,"Customer 467",F,27,"Eastern Cape"
+468,"Customer 468",M,55,Gauteng
+469,"Customer 469",F,24,KZN
+470,"Customer 470",M,38,"Western Cape"
+471,"Customer 471",F,49,"Eastern Cape"
+472,"Customer 472",M,63,Gauteng
+473,"Customer 473",F,51,KZN
+474,"Customer 474",M,47,"Western Cape"
+475,"Customer 475",F,65,"Eastern Cape"
+476,"Customer 476",M,18,Gauteng
+477,"Customer 477",F,29,KZN
+478,"Customer 478",M,22,"Western Cape"
+479,"Customer 479",F,55,"Eastern Cape"
+480,"Customer 480",M,41,Gauteng
+481,"Customer 481",F,24,KZN
+482,"Customer 482",M,29,"Western Cape"
+483,"Customer 483",F,56,"Eastern Cape"
+484,"Customer 484",M,23,Gauteng
+485,"Customer 485",F,32,KZN
+486,"Customer 486",M,21,"Western Cape"
+487,"Customer 487",F,45,"Eastern Cape"
+488,"Customer 488",M,42,Gauteng
+489,"Customer 489",F,58,KZN
+490,"Customer 490",M,45,"Western Cape"
+491,"Customer 491",F,35,"Eastern Cape"
+492,"Customer 492",M,22,Gauteng
+493,"Customer 493",F,39,KZN
+494,"Customer 494",M,59,"Western Cape"
+495,"Customer 495",F,61,"Eastern Cape"
+496,"Customer 496",M,62,Gauteng
+497,"Customer 497",F,58,KZN
+498,"Customer 498",M,35,"Western Cape"
+499,"Customer 499",F,36,"Eastern Cape"
+500,"Customer 500",M,59,Gauteng
+501,"Customer 501",F,66,KZN
+502,"Customer 502",M,38,"Western Cape"
+503,"Customer 503",F,24,"Eastern Cape"
+504,"Customer 504",M,40,Gauteng
+505,"Customer 505",F,60,KZN
+506,"Customer 506",M,64,"Western Cape"
+507,"Customer 507",F,20,"Eastern Cape"
+508,"Customer 508",M,43,Gauteng
+509,"Customer 509",F,37,KZN
+510,"Customer 510",M,36,"Western Cape"
+511,"Customer 511",F,53,"Eastern Cape"
+512,"Customer 512",M,40,Gauteng
+513,"Customer 513",F,22,KZN
+514,"Customer 514",M,22,"Western Cape"
+515,"Customer 515",F,27,"Eastern Cape"
+516,"Customer 516",M,50,Gauteng
+517,"Customer 517",F,52,KZN
+518,"Customer 518",M,41,"Western Cape"
+519,"Customer 519",F,35,"Eastern Cape"
+520,"Customer 520",M,32,Gauteng
+521,"Customer 521",F,38,KZN
+522,"Customer 522",M,27,"Western Cape"
+523,"Customer 523",F,54,"Eastern Cape"
+524,"Customer 524",M,22,Gauteng
+525,"Customer 525",F,31,KZN
+526,"Customer 526",M,19,"Western Cape"
+527,"Customer 527",F,37,"Eastern Cape"
+528,"Customer 528",M,61,Gauteng
+529,"Customer 529",F,24,KZN
+530,"Customer 530",M,22,"Western Cape"
+531,"Customer 531",F,18,"Eastern Cape"
+532,"Customer 532",M,59,Gauteng
+533,"Customer 533",F,23,KZN
+534,"Customer 534",M,19,"Western Cape"
+535,"Customer 535",F,61,"Eastern Cape"
+536,"Customer 536",M,30,Gauteng
+537,"Customer 537",F,51,KZN
+538,"Customer 538",M,46,"Western Cape"
+539,"Customer 539",F,59,"Eastern Cape"
+540,"Customer 540",M,41,Gauteng
+541,"Customer 541",F,61,KZN
+542,"Customer 542",M,64,"Western Cape"
+543,"Customer 543",F,20,"Eastern Cape"
+544,"Customer 544",M,42,Gauteng
+545,"Customer 545",F,30,KZN
+546,"Customer 546",M,55,"Western Cape"
+547,"Customer 547",F,20,"Eastern Cape"
+548,"Customer 548",M,18,Gauteng
+549,"Customer 549",F,61,KZN
+550,"Customer 550",M,34,"Western Cape"
+551,"Customer 551",F,18,"Eastern Cape"
+552,"Customer 552",M,21,Gauteng
+553,"Customer 553",F,35,KZN
+554,"Customer 554",M,45,"Western Cape"
+555,"Customer 555",F,51,"Eastern Cape"
+556,"Customer 556",M,55,Gauteng
+557,"Customer 557",F,53,KZN
+558,"Customer 558",M,32,"Western Cape"
+559,"Customer 559",F,35,"Eastern Cape"
+560,"Customer 560",M,62,Gauteng
+561,"Customer 561",F,38,KZN
+562,"Customer 562",M,35,"Western Cape"
+563,"Customer 563",F,42,"Eastern Cape"
+564,"Customer 564",M,38,Gauteng
+565,"Customer 565",F,46,KZN
+566,"Customer 566",M,49,"Western Cape"
+567,"Customer 567",F,39,"Eastern Cape"
+568,"Customer 568",M,31,Gauteng
+569,"Customer 569",F,21,KZN
+570,"Customer 570",M,44,"Western Cape"
+571,"Customer 571",F,40,"Eastern Cape"
+572,"Customer 572",M,52,Gauteng
+573,"Customer 573",F,20,KZN
+574,"Customer 574",M,28,"Western Cape"
+575,"Customer 575",F,64,"Eastern Cape"
+576,"Customer 576",M,65,Gauteng
+577,"Customer 577",F,19,KZN
+578,"Customer 578",M,29,"Western Cape"
+579,"Customer 579",F,24,"Eastern Cape"
+580,"Customer 580",M,63,Gauteng
+581,"Customer 581",F,25,KZN
+582,"Customer 582",M,18,"Western Cape"
+583,"Customer 583",F,47,"Eastern Cape"
+584,"Customer 584",M,66,Gauteng
+585,"Customer 585",F,20,KZN
+586,"Customer 586",M,34,"Western Cape"
+587,"Customer 587",F,43,"Eastern Cape"
+588,"Customer 588",M,44,Gauteng
+589,"Customer 589",F,24,KZN
+590,"Customer 590",M,19,"Western Cape"
+591,"Customer 591",F,58,"Eastern Cape"
+592,"Customer 592",M,64,Gauteng
+593,"Customer 593",F,29,KZN
+594,"Customer 594",M,37,"Western Cape"
+595,"Customer 595",F,31,"Eastern Cape"
+596,"Customer 596",M,24,Gauteng
+597,"Customer 597",F,59,KZN
+598,"Customer 598",M,56,"Western Cape"
+599,"Customer 599",F,34,"Eastern Cape"
+600,"Customer 600",M,35,Gauteng
+601,"Customer 601",F,58,KZN
+602,"Customer 602",M,64,"Western Cape"
+603,"Customer 603",F,30,"Eastern Cape"
+604,"Customer 604",M,42,Gauteng
+605,"Customer 605",F,50,KZN
+606,"Customer 606",M,59,"Western Cape"
+607,"Customer 607",F,28,"Eastern Cape"
+608,"Customer 608",M,45,Gauteng
+609,"Customer 609",F,23,KZN
+610,"Customer 610",M,61,"Western Cape"
+611,"Customer 611",F,19,"Eastern Cape"
+612,"Customer 612",M,45,Gauteng
+613,"Customer 613",F,50,KZN
+614,"Customer 614",M,47,"Western Cape"
+615,"Customer 615",F,18,"Eastern Cape"
+616,"Customer 616",M,33,Gauteng
+617,"Customer 617",F,43,KZN
+618,"Customer 618",M,49,"Western Cape"
+619,"Customer 619",F,48,"Eastern Cape"
+620,"Customer 620",M,25,Gauteng
+621,"Customer 621",F,62,KZN
+622,"Customer 622",M,19,"Western Cape"
+623,"Customer 623",F,42,"Eastern Cape"
+624,"Customer 624",M,35,Gauteng
+625,"Customer 625",F,30,KZN
+626,"Customer 626",M,27,"Western Cape"
+627,"Customer 627",F,30,"Eastern Cape"
+628,"Customer 628",M,50,Gauteng
+629,"Customer 629",F,42,KZN
+630,"Customer 630",M,41,"Western Cape"
+631,"Customer 631",F,64,"Eastern Cape"
+632,"Customer 632",M,30,Gauteng
+633,"Customer 633",F,38,KZN
+634,"Customer 634",M,32,"Western Cape"
+635,"Customer 635",F,31,"Eastern Cape"
+636,"Customer 636",M,39,Gauteng
+637,"Customer 637",F,37,KZN
+638,"Customer 638",M,50,"Western Cape"
+639,"Customer 639",F,19,"Eastern Cape"
+640,"Customer 640",M,29,Gauteng
+641,"Customer 641",F,21,KZN
+642,"Customer 642",M,52,"Western Cape"
+643,"Customer 643",F,27,"Eastern Cape"
+644,"Customer 644",M,64,Gauteng
+645,"Customer 645",F,20,KZN
+646,"Customer 646",M,41,"Western Cape"
+647,"Customer 647",F,28,"Eastern Cape"
+648,"Customer 648",M,48,Gauteng
+649,"Customer 649",F,40,KZN
+650,"Customer 650",M,37,"Western Cape"
+651,"Customer 651",F,49,"Eastern Cape"
+652,"Customer 652",M,66,Gauteng
+653,"Customer 653",F,66,KZN
+654,"Customer 654",M,64,"Western Cape"
+655,"Customer 655",F,57,"Eastern Cape"
+656,"Customer 656",M,22,Gauteng
+657,"Customer 657",F,22,KZN
+658,"Customer 658",M,27,"Western Cape"
+659,"Customer 659",F,50,"Eastern Cape"
+660,"Customer 660",M,54,Gauteng
+661,"Customer 661",F,51,KZN
+662,"Customer 662",M,28,"Western Cape"
+663,"Customer 663",F,66,"Eastern Cape"
+664,"Customer 664",M,30,Gauteng
+665,"Customer 665",F,33,KZN
+666,"Customer 666",M,58,"Western Cape"
+667,"Customer 667",F,26,"Eastern Cape"
+668,"Customer 668",M,35,Gauteng
+669,"Customer 669",F,31,KZN
+670,"Customer 670",M,34,"Western Cape"
+671,"Customer 671",F,59,"Eastern Cape"
+672,"Customer 672",M,26,Gauteng
+673,"Customer 673",F,34,KZN
+674,"Customer 674",M,24,"Western Cape"
+675,"Customer 675",F,50,"Eastern Cape"
+676,"Customer 676",M,63,Gauteng
+677,"Customer 677",F,47,KZN
+678,"Customer 678",M,30,"Western Cape"
+679,"Customer 679",F,38,"Eastern Cape"
+680,"Customer 680",M,36,Gauteng
+681,"Customer 681",F,46,KZN
+682,"Customer 682",M,57,"Western Cape"
+683,"Customer 683",F,28,"Eastern Cape"
+684,"Customer 684",M,54,Gauteng
+685,"Customer 685",F,66,KZN
+686,"Customer 686",M,50,"Western Cape"
+687,"Customer 687",F,36,"Eastern Cape"
+688,"Customer 688",M,64,Gauteng
+689,"Customer 689",F,43,KZN
+690,"Customer 690",M,55,"Western Cape"
+691,"Customer 691",F,27,"Eastern Cape"
+692,"Customer 692",M,54,Gauteng
+693,"Customer 693",F,21,KZN
+694,"Customer 694",M,25,"Western Cape"
+695,"Customer 695",F,46,"Eastern Cape"
+696,"Customer 696",M,39,Gauteng
+697,"Customer 697",F,38,KZN
+698,"Customer 698",M,55,"Western Cape"
+699,"Customer 699",F,43,"Eastern Cape"
+700,"Customer 700",M,33,Gauteng
+701,"Customer 701",F,67,KZN
+702,"Customer 702",M,19,"Western Cape"
+703,"Customer 703",F,28,"Eastern Cape"
+704,"Customer 704",M,67,Gauteng
+705,"Customer 705",F,31,KZN
+706,"Customer 706",M,35,"Western Cape"
+707,"Customer 707",F,67,"Eastern Cape"
+708,"Customer 708",M,63,Gauteng
+709,"Customer 709",F,45,KZN
+710,"Customer 710",M,18,"Western Cape"
+711,"Customer 711",F,37,"Eastern Cape"
+712,"Customer 712",M,65,Gauteng
+713,"Customer 713",F,45,KZN
+714,"Customer 714",M,65,"Western Cape"
+715,"Customer 715",F,22,"Eastern Cape"
+716,"Customer 716",M,47,Gauteng
+717,"Customer 717",F,53,KZN
+718,"Customer 718",M,55,"Western Cape"
+719,"Customer 719",F,50,"Eastern Cape"
+720,"Customer 720",M,18,Gauteng
+721,"Customer 721",F,20,KZN
+722,"Customer 722",M,30,"Western Cape"
+723,"Customer 723",F,21,"Eastern Cape"
+724,"Customer 724",M,49,Gauteng
+725,"Customer 725",F,65,KZN
+726,"Customer 726",M,62,"Western Cape"
+727,"Customer 727",F,46,"Eastern Cape"
+728,"Customer 728",M,26,Gauteng
+729,"Customer 729",F,25,KZN
+730,"Customer 730",M,29,"Western Cape"
+731,"Customer 731",F,54,"Eastern Cape"
+732,"Customer 732",M,63,Gauteng
+733,"Customer 733",F,36,KZN
+734,"Customer 734",M,23,"Western Cape"
+735,"Customer 735",F,40,"Eastern Cape"
+736,"Customer 736",M,62,Gauteng
+737,"Customer 737",F,24,KZN
+738,"Customer 738",M,66,"Western Cape"
+739,"Customer 739",F,39,"Eastern Cape"
+740,"Customer 740",M,29,Gauteng
+741,"Customer 741",F,63,KZN
+742,"Customer 742",M,57,"Western Cape"
+743,"Customer 743",F,32,"Eastern Cape"
+744,"Customer 744",M,21,Gauteng
+745,"Customer 745",F,40,KZN
+746,"Customer 746",M,19,"Western Cape"
+747,"Customer 747",F,57,"Eastern Cape"
+748,"Customer 748",M,61,Gauteng
+749,"Customer 749",F,19,KZN
+750,"Customer 750",M,42,"Western Cape"
+751,"Customer 751",F,37,"Eastern Cape"
+752,"Customer 752",M,39,Gauteng
+753,"Customer 753",F,18,KZN
+754,"Customer 754",M,55,"Western Cape"
+755,"Customer 755",F,52,"Eastern Cape"
+756,"Customer 756",M,28,Gauteng
+757,"Customer 757",F,19,KZN
+758,"Customer 758",M,42,"Western Cape"
+759,"Customer 759",F,36,"Eastern Cape"
+760,"Customer 760",M,34,Gauteng
+761,"Customer 761",F,47,KZN
+762,"Customer 762",M,65,"Western Cape"
+763,"Customer 763",F,18,"Eastern Cape"
+764,"Customer 764",M,26,Gauteng
+765,"Customer 765",F,60,KZN
+766,"Customer 766",M,54,"Western Cape"
+767,"Customer 767",F,23,"Eastern Cape"
+768,"Customer 768",M,37,Gauteng
+769,"Customer 769",F,46,KZN
+770,"Customer 770",M,53,"Western Cape"
+771,"Customer 771",F,59,"Eastern Cape"
+772,"Customer 772",M,19,Gauteng
+773,"Customer 773",F,48,KZN
+774,"Customer 774",M,18,"Western Cape"
+775,"Customer 775",F,27,"Eastern Cape"
+776,"Customer 776",M,66,Gauteng
+777,"Customer 777",F,28,KZN
+778,"Customer 778",M,28,"Western Cape"
+779,"Customer 779",F,35,"Eastern Cape"
+780,"Customer 780",M,27,Gauteng
+781,"Customer 781",F,61,KZN
+782,"Customer 782",M,58,"Western Cape"
+783,"Customer 783",F,38,"Eastern Cape"
+784,"Customer 784",M,48,Gauteng
+785,"Customer 785",F,60,KZN
+786,"Customer 786",M,39,"Western Cape"
+787,"Customer 787",F,45,"Eastern Cape"
+788,"Customer 788",M,40,Gauteng
+789,"Customer 789",F,50,KZN
+790,"Customer 790",M,62,"Western Cape"
+791,"Customer 791",F,43,"Eastern Cape"
+792,"Customer 792",M,61,Gauteng
+793,"Customer 793",F,58,KZN
+794,"Customer 794",M,39,"Western Cape"
+795,"Customer 795",F,54,"Eastern Cape"
+796,"Customer 796",M,36,Gauteng
+797,"Customer 797",F,52,KZN
+798,"Customer 798",M,34,"Western Cape"
+799,"Customer 799",F,48,"Eastern Cape"
+800,"Customer 800",M,19,Gauteng
+801,"Customer 801",F,33,KZN
+802,"Customer 802",M,39,"Western Cape"
+803,"Customer 803",F,32,"Eastern Cape"
+804,"Customer 804",M,22,Gauteng
+805,"Customer 805",F,50,KZN
+806,"Customer 806",M,65,"Western Cape"
+807,"Customer 807",F,58,"Eastern Cape"
+808,"Customer 808",M,26,Gauteng
+809,"Customer 809",F,39,KZN
+810,"Customer 810",M,50,"Western Cape"
+811,"Customer 811",F,63,"Eastern Cape"
+812,"Customer 812",M,51,Gauteng
+813,"Customer 813",F,48,KZN
+814,"Customer 814",M,20,"Western Cape"
+815,"Customer 815",F,37,"Eastern Cape"
+816,"Customer 816",M,59,Gauteng
+817,"Customer 817",F,18,KZN
+818,"Customer 818",M,42,"Western Cape"
+819,"Customer 819",F,40,"Eastern Cape"
+820,"Customer 820",M,58,Gauteng
+821,"Customer 821",F,52,KZN
+822,"Customer 822",M,18,"Western Cape"
+823,"Customer 823",F,66,"Eastern Cape"
+824,"Customer 824",M,60,Gauteng
+825,"Customer 825",F,33,KZN
+826,"Customer 826",M,67,"Western Cape"
+827,"Customer 827",F,19,"Eastern Cape"
+828,"Customer 828",M,26,Gauteng
+829,"Customer 829",F,57,KZN
+830,"Customer 830",M,37,"Western Cape"
+831,"Customer 831",F,49,"Eastern Cape"
+832,"Customer 832",M,67,Gauteng
+833,"Customer 833",F,21,KZN
+834,"Customer 834",M,34,"Western Cape"
+835,"Customer 835",F,39,"Eastern Cape"
+836,"Customer 836",M,26,Gauteng
+837,"Customer 837",F,48,KZN
+838,"Customer 838",M,42,"Western Cape"
+839,"Customer 839",F,49,"Eastern Cape"
+840,"Customer 840",M,50,Gauteng
+841,"Customer 841",F,35,KZN
+842,"Customer 842",M,59,"Western Cape"
+843,"Customer 843",F,22,"Eastern Cape"
+844,"Customer 844",M,64,Gauteng
+845,"Customer 845",F,36,KZN
+846,"Customer 846",M,21,"Western Cape"
+847,"Customer 847",F,30,"Eastern Cape"
+848,"Customer 848",M,18,Gauteng
+849,"Customer 849",F,35,KZN
+850,"Customer 850",M,52,"Western Cape"
+851,"Customer 851",F,40,"Eastern Cape"
+852,"Customer 852",M,24,Gauteng
+853,"Customer 853",F,35,KZN
+854,"Customer 854",M,35,"Western Cape"
+855,"Customer 855",F,50,"Eastern Cape"
+856,"Customer 856",M,28,Gauteng
+857,"Customer 857",F,24,KZN
+858,"Customer 858",M,19,"Western Cape"
+859,"Customer 859",F,54,"Eastern Cape"
+860,"Customer 860",M,44,Gauteng
+861,"Customer 861",F,43,KZN
+862,"Customer 862",M,65,"Western Cape"
+863,"Customer 863",F,28,"Eastern Cape"
+864,"Customer 864",M,28,Gauteng
+865,"Customer 865",F,39,KZN
+866,"Customer 866",M,45,"Western Cape"
+867,"Customer 867",F,37,"Eastern Cape"
+868,"Customer 868",M,35,Gauteng
+869,"Customer 869",F,47,KZN
+870,"Customer 870",M,63,"Western Cape"
+871,"Customer 871",F,55,"Eastern Cape"
+872,"Customer 872",M,19,Gauteng
+873,"Customer 873",F,62,KZN
+874,"Customer 874",M,35,"Western Cape"
+875,"Customer 875",F,23,"Eastern Cape"
+876,"Customer 876",M,40,Gauteng
+877,"Customer 877",F,65,KZN
+878,"Customer 878",M,36,"Western Cape"
+879,"Customer 879",F,19,"Eastern Cape"
+880,"Customer 880",M,19,Gauteng
+881,"Customer 881",F,21,KZN
+882,"Customer 882",M,32,"Western Cape"
+883,"Customer 883",F,27,"Eastern Cape"
+884,"Customer 884",M,22,Gauteng
+885,"Customer 885",F,61,KZN
+886,"Customer 886",M,23,"Western Cape"
+887,"Customer 887",F,63,"Eastern Cape"
+888,"Customer 888",M,29,Gauteng
+889,"Customer 889",F,38,KZN
+890,"Customer 890",M,35,"Western Cape"
+891,"Customer 891",F,43,"Eastern Cape"
+892,"Customer 892",M,43,Gauteng
+893,"Customer 893",F,20,KZN
+894,"Customer 894",M,51,"Western Cape"
+895,"Customer 895",F,28,"Eastern Cape"
+896,"Customer 896",M,18,Gauteng
+897,"Customer 897",F,39,KZN
+898,"Customer 898",M,24,"Western Cape"
+899,"Customer 899",F,35,"Eastern Cape"
+900,"Customer 900",M,34,Gauteng
+901,"Customer 901",F,50,KZN
+902,"Customer 902",M,28,"Western Cape"
+903,"Customer 903",F,24,"Eastern Cape"
+904,"Customer 904",M,66,Gauteng
+905,"Customer 905",F,44,KZN
+906,"Customer 906",M,52,"Western Cape"
+907,"Customer 907",F,63,"Eastern Cape"
+908,"Customer 908",M,40,Gauteng
+909,"Customer 909",F,42,KZN
+910,"Customer 910",M,26,"Western Cape"
+911,"Customer 911",F,33,"Eastern Cape"
+912,"Customer 912",M,21,Gauteng
+913,"Customer 913",F,40,KZN
+914,"Customer 914",M,18,"Western Cape"
+915,"Customer 915",F,52,"Eastern Cape"
+916,"Customer 916",M,39,Gauteng
+917,"Customer 917",F,20,KZN
+918,"Customer 918",M,18,"Western Cape"
+919,"Customer 919",F,63,"Eastern Cape"
+920,"Customer 920",M,41,Gauteng
+921,"Customer 921",F,49,KZN
+922,"Customer 922",M,55,"Western Cape"
+923,"Customer 923",F,59,"Eastern Cape"
+924,"Customer 924",M,62,Gauteng
+925,"Customer 925",F,19,KZN
+926,"Customer 926",M,38,"Western Cape"
+927,"Customer 927",F,66,"Eastern Cape"
+928,"Customer 928",M,48,Gauteng
+929,"Customer 929",F,26,KZN
+930,"Customer 930",M,20,"Western Cape"
+931,"Customer 931",F,53,"Eastern Cape"
+932,"Customer 932",M,36,Gauteng
+933,"Customer 933",F,55,KZN
+934,"Customer 934",M,51,"Western Cape"
+935,"Customer 935",F,19,"Eastern Cape"
+936,"Customer 936",M,28,Gauteng
+937,"Customer 937",F,63,KZN
+938,"Customer 938",M,65,"Western Cape"
+939,"Customer 939",F,18,"Eastern Cape"
+940,"Customer 940",M,26,Gauteng
+941,"Customer 941",F,59,KZN
+942,"Customer 942",M,51,"Western Cape"
+943,"Customer 943",F,59,"Eastern Cape"
+944,"Customer 944",M,26,Gauteng
+945,"Customer 945",F,35,KZN
+946,"Customer 946",M,31,"Western Cape"
+947,"Customer 947",F,30,"Eastern Cape"
+948,"Customer 948",M,39,Gauteng
+949,"Customer 949",F,37,KZN
+950,"Customer 950",M,52,"Western Cape"
+951,"Customer 951",F,32,"Eastern Cape"
+952,"Customer 952",M,35,Gauteng
+953,"Customer 953",F,61,KZN
+954,"Customer 954",M,35,"Western Cape"
+955,"Customer 955",F,23,"Eastern Cape"
+956,"Customer 956",M,43,Gauteng
+957,"Customer 957",F,27,KZN
+958,"Customer 958",M,38,"Western Cape"
+959,"Customer 959",F,41,"Eastern Cape"
+960,"Customer 960",M,24,Gauteng
+961,"Customer 961",F,29,KZN
+962,"Customer 962",M,56,"Western Cape"
+963,"Customer 963",F,25,"Eastern Cape"
+964,"Customer 964",M,42,Gauteng
+965,"Customer 965",F,65,KZN
+966,"Customer 966",M,34,"Western Cape"
+967,"Customer 967",F,57,"Eastern Cape"
+968,"Customer 968",M,63,Gauteng
+969,"Customer 969",F,30,KZN
+970,"Customer 970",M,40,"Western Cape"
+971,"Customer 971",F,46,"Eastern Cape"
+972,"Customer 972",M,39,Gauteng
+973,"Customer 973",F,43,KZN
+974,"Customer 974",M,27,"Western Cape"
+975,"Customer 975",F,41,"Eastern Cape"
+976,"Customer 976",M,55,Gauteng
+977,"Customer 977",F,35,KZN
+978,"Customer 978",M,45,"Western Cape"
+979,"Customer 979",F,49,"Eastern Cape"
+980,"Customer 980",M,45,Gauteng
+981,"Customer 981",F,58,KZN
+982,"Customer 982",M,37,"Western Cape"
+983,"Customer 983",F,43,"Eastern Cape"
+984,"Customer 984",M,37,Gauteng
+985,"Customer 985",F,40,KZN
+986,"Customer 986",M,19,"Western Cape"
+987,"Customer 987",F,58,"Eastern Cape"
+988,"Customer 988",M,18,Gauteng
+989,"Customer 989",F,47,KZN
+990,"Customer 990",M,65,"Western Cape"
+991,"Customer 991",F,67,"Eastern Cape"
+992,"Customer 992",M,23,Gauteng
+993,"Customer 993",F,44,KZN
+994,"Customer 994",M,34,"Western Cape"
+995,"Customer 995",F,22,"Eastern Cape"
+996,"Customer 996",M,39,Gauteng
+997,"Customer 997",F,62,KZN
+998,"Customer 998",M,27,"Western Cape"
+999,"Customer 999",F,32,"Eastern Cape"
+1000,"Customer 1000",M,59,Gauteng

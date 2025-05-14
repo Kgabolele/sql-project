@@ -1,62 +1,32 @@
-# 💼 SQL Portfolio Project: Insurance Company Database
+# Insurance Claims SQL Project
 
-## 📌 Project Objective
+This is a SQL-only data project simulating an insurance database with customer, policy, claim, and agent data. It was created to demonstrate my SQL skills including data generation, table creation, joins, and export to CSV.
 
-This project simulates an insurance company’s database system using pure SQL. The aim is to showcase SQL skills through data creation, manipulation, and analysis without using Power BI or Excel.
+## 📊 Project Structure
 
----
+The database contains 4 main tables:
+- `customers`
+- `policies`
+- `claims`
+- `agents`
 
-## 🧱 Database Design
+## ⚙️ Tech Used
+- MySQL Workbench
+- SQL (Stored Procedures, Joins, Aggregates)
 
-### 1. `customers`
-| Column Name | Data Type | Description            |
-|-------------|------------|------------------------|
-| customer_id | INT        | Unique ID per customer |
-| full_name   | VARCHAR    | Full customer name     |
-| gender      | CHAR(1)    | 'M' or 'F'             |
-| age         | INT        | Age of the customer    |
-| region      | VARCHAR    | Province               |
+## 📁 Files Included
 
-### 2. `policies`
-| Column Name | Data Type | Description                 |
-|-------------|------------|-----------------------------|
-| policy_id   | VARCHAR    | Unique policy number        |
-| customer_id | INT        | Linked to `customers` table |
-| policy_type | VARCHAR    | Type of policy: Home, Auto, Life |
-| start_date  | DATE       | Policy start date           |
-| end_date    | DATE       | Policy end date             |
-| premium     | DECIMAL    | Premium amount in ZAR       |
+- `create_tables.sql` – creates the database and tables.
+- `populate_data.sql` – generates and inserts 1000 rows per table using stored procedures.
+- `join_query_export.sql` – combines tables into one export-ready dataset.
+- `insurance_combined_data.csv` – exported result from JOIN query.
 
-### 3. `claims`
-| Column Name | Data Type | Description                      |
-|-------------|------------|----------------------------------|
-| claim_id    | VARCHAR    | Unique claim ID                 |
-| policy_id   | VARCHAR    | Linked to `policies` table      |
-| claim_date  | DATE       | Date of the claim               |
-| claim_amount| DECIMAL    | Amount claimed in ZAR           |
-| claim_type  | VARCHAR    | Accident, Death, or Fire        |
-| status      | VARCHAR    | Approved, Rejected, or Pending  |
+## 🔍 Sample Query Output
 
-### 4. `agents`
-| Column Name | Data Type | Description            |
-|-------------|------------|------------------------|
-| agent_id    | VARCHAR    | Unique agent ID        |
-| agent_name  | VARCHAR    | Full name              |
-| region      | VARCHAR    | Province               |
-| total_clients| INT       | Number of clients managed |
-
----
-
-## 🔍 SQL Skills Demonstrated
-
-✅ Data generation using stored procedures  
-✅ Data validation and referential integrity  
-✅ Complex joins, subqueries, and aggregations  
-✅ CASE statements and filtering  
-✅ Exploratory data analysis using SQL only  
-
----
-
-## 📊 Key Analysis Queries
-
-See below for some of the queries I wrote for this project.
+```sql
+SELECT c.full_name, p.policy_type, cl.claim_amount, a.agent_name
+FROM customers c
+JOIN policies p ON c.customer_id = p.customer_id
+JOIN claims cl ON p.policy_id = cl.policy_id
+JOIN agents a ON c.region = a.region
+LIMIT 10;
